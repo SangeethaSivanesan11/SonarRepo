@@ -18,4 +18,7 @@ public class FileRead
 	}
         }
     }
+
+    public void Test{
+    }
 }
