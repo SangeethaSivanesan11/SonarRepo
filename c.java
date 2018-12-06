@@ -1,4 +1,4 @@
-public class Main {
+public class mains {
    public static void main(String[] args) {
       StringBuffer searchstr = new StringBuffer(
          "hello how are you. ");
