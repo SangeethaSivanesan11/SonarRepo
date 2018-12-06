@@ -10,6 +10,8 @@ public class mains {
          count++;
          searchstr.setCharAt(i, 'h');
       }
+
+
       //System.out.println("Found " + count + " h's in the string.");
       //System.out.println(searchstr);
    }
